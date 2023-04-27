@@ -12,4 +12,4 @@ Toute personne souhaitant contribuer à l'amélioration des défis et des probl�
 
 # Licence
 
-Ce dépôt est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce dépôt est sous licence MIT. Voir le fichier [LICENSE](https://github.com/Le-BootCamp-Grow/EntryLevelWebDevAssessment/blob/main/LICENSE) pour plus de détails.
